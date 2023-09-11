@@ -5,3 +5,4 @@ Lista de Alumnos:
 - Jesus Ruiz 
 - Carlos Gabriel Gonzalez
 - Antonio Hernandez
+- Luis Retamal 
