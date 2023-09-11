@@ -6,3 +6,4 @@ Lista de Alumnos:
 - Carlos Gabriel Gonzalez
 - Antonio Hernandez
 - Luis Retamal 
+- Guillermo Venegas
