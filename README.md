@@ -8,3 +8,4 @@ Lista de Alumnos:
 - Luis Retamal 
 - Guillermo Venegas
 - Andres Orta Elizalde
+- Sergio Salinas
