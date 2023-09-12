@@ -10,3 +10,4 @@ Lista de Alumnos:
 - Andres Orta Elizalde
 - Sergio Salinas
 - Badin Cardenas Millan
+- Mario Galeana
