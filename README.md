@@ -11,3 +11,4 @@ Lista de Alumnos:
 - Sergio Salinas
 - Badin Cardenas Millan
 - Mario Galeana
+- José Dennis Estela Zumaeta
