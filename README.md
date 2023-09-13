@@ -12,3 +12,4 @@ Lista de Alumnos:
 - Badin Cardenas Millan
 - Mario Galeana
 - José Dennis Estela Zumaeta
+- Jean Paul Valentin
