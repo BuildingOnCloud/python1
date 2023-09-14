@@ -13,3 +13,4 @@ Lista de Alumnos:
 - Mario Galeana
 - José Dennis Estela Zumaeta
 - Jean Paul Valentin
+- Boris Mendoza
