@@ -1,0 +1,27 @@
+a = float(input("Ingrese numero 1: "))
+b = float(input("Ingrese numero 2: "))
+
+print("\nSeleccione la operacion")
+print("1. Suma")
+print("2. Resta")
+print("3. Multiplicación")
+print("4. División")
+
+opcion = input("Ingrese un numero del 1 al 4 para saber la operacion: ")
+
+if opcion == '1':
+    c = a + b
+    print(f"El resultado de la suma es: {c}")
+elif opcion == '2':
+    c = a - b
+    print(f"El resultado de la resta es: {c}")
+elif opcion == '3':
+    c = a * b
+    print(f"El resultado de la multiplicacion es: {c}")
+elif opcion == '4':
+    if b != 0:
+        c = a / b
+        print(f"El resultado de la division es: {c}")
+    print("Error: no se puede dividir")
+else:
+    print("Opcion no valida")
