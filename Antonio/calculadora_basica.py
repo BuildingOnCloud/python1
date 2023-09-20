@@ -41,3 +41,4 @@ while Opcion != 6:
           number2=float(input("ingreso segundo numero:"))
      if Opcion == 6:
           print("Gracias por utilizar la calculadora del curso de Python - CloudLamp eLearning")
+input()           
