@@ -7,7 +7,7 @@ def multi (n1, n2):
     return n1 * n2
 def divi (n1, n2):
     if n2 == 0:
-        return "No se leso dividir entre 0 no se llama"
+        return "No sea leso dividir entre 0 no se llama"
     return n1 / n2
 def calculadora():
     print("            ***** Seleccione una operacion :*****           ")
