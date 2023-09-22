@@ -14,3 +14,4 @@ Lista de Alumnos:
 - José Dennis Estela Zumaeta
 - Jean Paul Valentin
 - Boris Mendoza
+- Andrea Altamirano
